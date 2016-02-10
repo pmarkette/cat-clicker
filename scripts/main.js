@@ -1,0 +1,1 @@
+"use strict";var count=0,$clickCounter=$("#click-counter");$("#catpic").click(function(){count++,$clickCounter.html("You have clicked this cat "+count+" times!")});
